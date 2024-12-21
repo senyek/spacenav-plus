@@ -6,8 +6,8 @@ license = "MIT"
 description = "Unsafe libspnav FFI bindings for Rust"
 repository = "https://github.com/sjkillen/spacenav-plus"
 readme = "README.md"
-keywords = ["spacemouse", "3Dconnexion", "spacenav"]
+keywords = ["spacemouse", "spacenav"]
 
 [dependencies]
 libspnav-bindings = "0.1.0"
-lazy_static = "1.4.0"
+#lazy_static = "*"
